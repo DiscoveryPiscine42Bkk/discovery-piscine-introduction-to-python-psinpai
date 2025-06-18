@@ -3,3 +3,5 @@ print("Original array:", original_array)
 new_array = [x + 2 for x in original_array]
 print("New array:", new_array)
 
+
+
